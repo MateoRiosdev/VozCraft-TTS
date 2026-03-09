@@ -104,5 +104,4 @@ http://localhost:5173
 4. Se crea un `SpeechSynthesisUtterance`.
 5. El navegador genera el audio en tiempo real.
 6. El usuario puede editar el nombre del audio.
-7. El usuario puede descargar el audio en formato "mp3" y "wav"
-8. El usuario puede eliminar y/o guardar los audios en un archivo "json"
+7. El usuario puede eliminar y/o guardar los audios en un archivo "json"
