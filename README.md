@@ -1,7 +1,7 @@
 # 🎙️ VozCraft – Free TTS en el Navegador
 
 **Convierte texto en voz GRATIS y en tiempo real** 🌍🔊
-Genera audio de alta calidad directamente desde tu navegador, sin servidores, sin API keys y sin costos.
+Genera audios directamente desde tu navegador, sin servidores, sin API keys y sin costos.
 
 ---
 
